@@ -3,10 +3,12 @@ This Python script scrapes from Sreality rental listings of flats from a specifi
 
 ## Installation
 1. Clone the repo
+   
    ```sh
    git clone https://github.com/markostrba/sreality_scraper.git
    ```
-2. install modules
+3. install modules
+   
      ```sh
      pip install -r requirements.txt
      ```
