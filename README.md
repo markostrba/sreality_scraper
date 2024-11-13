@@ -12,5 +12,6 @@ This Python script scrapes from Sreality rental listings of flats from a specifi
      ```sh
      pip install -r requirements.txt
      ```
-
+     
+![](https://github.com/markostrba/sreality_scraper/blob/main/Timeline1-ezgif.com-optimize.gif)
 
